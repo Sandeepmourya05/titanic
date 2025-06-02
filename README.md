@@ -41,7 +41,7 @@ Usage
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/kushagra8881/titanic.git
+git clone https://github.com/sandeepmourya05/titanic.git
 Navigate to the project directory:
 bash
 Copy code

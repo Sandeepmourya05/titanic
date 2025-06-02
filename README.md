@@ -55,7 +55,7 @@ Results
 The logistic regression model achieved an accuracy of X% on the test dataset, demonstrating its ability to predict passenger survival on the Titanic.
 
 Contributors
-Your Name (kushagraparashar900@gmail.com)
+Your Name (sandeepiitd2226@gmail.com)
 Additional contributors, if any
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
